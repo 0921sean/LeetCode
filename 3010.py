@@ -1,3 +1,5 @@
+from typing import List
+
 class Solution:
     def minimumCost(self, nums: List[int]) -> int:
         min_val = float('inf')
