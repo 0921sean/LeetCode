@@ -35,4 +35,3 @@ class Solution:
         #         candy_list.append(1)
         #         left = right
         #     prev = curr
-        # return sum(candy_list)
